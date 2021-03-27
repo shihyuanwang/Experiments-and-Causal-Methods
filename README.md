@@ -9,9 +9,7 @@ https://github.com/shihyuanwang/Experiments_and_CausalMethods/blob/main/1_Clinic
 \
 (2) RocketFuel Case - Heterogeneous Treatment Effects
 
-Case study: Rocket Fuel: Measuring the Effectiveness of Online Advertising
-
-https://store.hbr.org/product/rocket-fuel-measuring-the-effectiveness-of-online-advertising/B5894
+Case study - Rocket Fuel: Measuring the Effectiveness of Online Advertising (https://store.hbr.org/product/rocket-fuel-measuring-the-effectiveness-of-online-advertising/B5894)
 
 https://github.com/shihyuanwang/Experiments_and_CausalMethods/blob/main/2_RocketFuel%20Case_Heterogeneous%20Treatment%20Effects/RocketFuelCaseStudy.pdf
 
