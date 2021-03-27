@@ -1,5 +1,6 @@
 # Experiments and Causal Methods using R
 
+
 1. Clinic Sales - Experiment Analysis
 
 Einfach Medical Supplies (EMS) sells a disposable testing device to clinics and is trying to expand their business in a new region. They want to find a better way to pitch the product when visiting a clinic. A Clinic Sales Experiment was designed to test whether different opening pitches have different effects on conversion of clinics by using a randomized controlled design. 
@@ -10,6 +11,7 @@ https://github.com/shihyuanwang/Experiments_and_CausalMethods/blob/main/1_Clinic
 2. RocketFuel Case - Heterogeneous Treatment Effects
 
 Case study: Rocket Fuel: Measuring the Effectiveness of Online Advertising
+
 https://store.hbr.org/product/rocket-fuel-measuring-the-effectiveness-of-online-advertising/B5894
 
 https://github.com/shihyuanwang/Experiments_and_CausalMethods/blob/main/2_RocketFuel%20Case_Heterogeneous%20Treatment%20Effects/RocketFuelCaseStudy.pdf
